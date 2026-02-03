@@ -6,14 +6,14 @@ Aqui, documento minha evolução técnica, centralizando códigos de cursos, est
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 
 <img 
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="40px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -21,15 +21,15 @@ Aqui, documento minha evolução técnica, centralizando códigos de cursos, est
     align="left" 
     alt="PostgreSQL" 
     title="PostgreSQL"
-    width="30px" 
+    width="40px" 
     style="padding-right: 20px;" 
     src="https://devicon-website.vercel.app/api/postgresql/plain-wordmark.svg"
 />
 <img 
     align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
+    alt="SQLAlchemy" 
+    title="SQLAlchemy"
+    width="40px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" 
 />
@@ -37,7 +37,7 @@ Aqui, documento minha evolução técnica, centralizando códigos de cursos, est
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="40px" 
     style="padding-right: 20px;" 
     src="https://devicon-website.vercel.app/api/git/plain-wordmark.svg"
 />
